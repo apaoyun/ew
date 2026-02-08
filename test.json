@@ -110,7 +110,7 @@
         "group": "normal",
         "enabled": true,
         "priority": 14
-    },
+    }，
     {
         "id": "guangsu",
         "name": "光速资源",
@@ -510,7 +510,7 @@
         "group": "premium",
         "enabled": true,
         "priority": 8
-    },
+    }，
     {
         "id": "xrbsp",
         "name": "淫水机资源站",
