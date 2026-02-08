@@ -622,5 +622,13 @@
         "group": "premium",
         "enabled": true,
         "priority": 22
+    },
+    {
+        "id": "xi",
+        "name": "细胞采集",
+        "baseUrl": "https://www.xxibaozyw.com/api.php/provide/vod",
+        "group": "18",
+        "enabled": true,
+        "priority": 1
     }
 ]
